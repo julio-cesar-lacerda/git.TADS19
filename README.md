@@ -1,1 +1,1 @@
-# git.TADS19
+Simulador da Mega-Sena
